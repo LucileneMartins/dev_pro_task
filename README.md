@@ -1,5 +1,4 @@
 # :woman_technologist: dev pro Challenge
-challenge_metadata
 
 Project Test Web
 
@@ -28,7 +27,7 @@ npm -v  </br>
 ## 💡 Use
 
 <b>Run tests </b></br>
-$ npm run test </br>
+$ npm test </br>
 
 
 
