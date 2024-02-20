@@ -31,6 +31,10 @@ class Log {
         return fs.readFileSync(this.testLogFile, 'utf8');
     }
 
+    removeFile(){
+        fs.unlinkSync(this.testLogFile);
+    }
+
 }
 
 const log = new Log();
