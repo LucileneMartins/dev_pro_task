@@ -1,6 +1,6 @@
 # :woman_technologist: dev pro Challenge
 
-Project dev pro task
+Project Dev.Pro task
 
 Tools and Libs:
 
