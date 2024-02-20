@@ -1,4 +1,4 @@
-# :woman_technologist: dev pro Challenge
+# :woman_technologist: Dev.Pro Task
 
 Project Dev.Pro task
 
